@@ -11,5 +11,3 @@ slug = "talks"
 
 * 2017-10 - [Autodesk University - Python for Visual Programmers](https://www.autodesk.com/autodesk-university/class/Untangling-Python-Crash-Course-Dynamos-Python-Node-2017#video) |
 [Handout](https://github.com/gtalarico/au2017/blob/master/AS124816-L-Talarico-AU20.pdf)
-
-* 2017-02 - [Online Communities & Revit Api Docs](/docs/OnlineCommunities-RevitApi.pdf)
