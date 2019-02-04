@@ -1,5 +1,5 @@
 +++
-title = "pm"
+title = "Pm"
 description = "A Tiny CLI utility to navigate project directories"
 slug = "pm"
 tags = [
