@@ -1,5 +1,5 @@
 +++
-title = "Vue Js Tempaltes"
+title = "Vue Js Templates"
 description = "Fullstack templates for Python + VueJs"
 slug = "vue-templates"
 tags = [
@@ -27,7 +27,7 @@ Template for a Flask + Vue Application
     <a href="https://flask-vuejs-template.herokuapp.com">Live Demo</a>
 </div>
 
-## Django  VueJs Template
+## Django VueJs Template 🐍✌️
 Template for a Django REST + Vue Application with single-click Heroku Deploy
 
 
