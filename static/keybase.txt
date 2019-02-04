@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/gtalarico
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gtalarico.com
+  * I am gtalarico (https://keybase.io/gtalarico) on keybase.
+  * I have a public key with fingerprint 8808 C96A 9CEC EA07 FE0C  306A 8A5D FE60 E902 21DA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010102782acaefd429ad5220fbcc21024b7239fec7d3617cb36c1d425fb31929a6ad0a",
+      "fingerprint": "8808c96a9cecea07fe0c306a8a5dfe60e90221da",
+      "host": "keybase.io",
+      "key_id": "8a5dfe60e90221da",
+      "kid": "010102782acaefd429ad5220fbcc21024b7239fec7d3617cb36c1d425fb31929a6ad0a",
+      "uid": "d58b42b307e6a0ddde4e463257d9b219",
+      "username": "gtalarico"
+    },
+    "merkle_root": {
+      "ctime": 1549302640,
+      "hash_meta": "9f90a56a9f63a6b6e41cd825b77ac87436aafcf242aad1cb488599c523931900",
+      "seqno": 4694493
+    },
+    "revoke": {
+      "sig_ids": [
+        "173ba51f4d69567999c6c278fa20e193dea4aedcbfe99216906b26ff51a184b70f"
+      ]
+    },
+    "service": {
+      "hostname": "gtalarico.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1549302655,
+  "expire_in": 157680000,
+  "prev": "d67d0c7e85a8626bd3e8411df38bf8e311b02488ece19a4b67423d2569af5c6f",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMK2AnicrZNtaBxFHMbv0thgSkIsLUiLQhcRX84wMzszO3NqFT+kil8UJWjfrvN6
+t97l9rK7OVND0Coa4ksrtCjSBgliRVqENDQmV2pLbCkiFj+lamk/KAq1Giu2IqjU
+2aAIxY/uflhm5/k//2d+M3Oia1muM3/y1JUeX7SfyX86PzyU2/zEyLMjnoz0dq84
+4lXN0sfUtEnSUjXUXtED0L0oYEgoYazGiAtNEAJWKoXcDJYB8rk1KtA+hYGSPlXQ
+yYiVPuROTYUGwit4NqyXTdyIw3rqbBkDTHEquDLKCBBYA5QPqGCCaGsoMBwgBHVW
+WImSrMKFkyIxvWHk/rlBaSnef+j/59xDS3aaMImR9EFgqABaa4MNpj4igeYSQZ4J
+ExPXxYBx6nIqaiIOVeSNFrwBE1drphRHUZrRVWmYaSDB3AeIYuBWKJJKacCkwpVy
+y4EgDoylvqCSGgyVZojIIBCKBdinQlhlEUZCaKgkZoxwrohbjMsNgAuSmMF65BUx
+5dj1cAli04yqJmuehGXHLfGKmzwY+FIQaLGmnNCAOxOqHDArEDCQ+9oILIxW0hrO
+EaQcUImotQQKyBw9YL0to1mzuBmqJfNso64F0KuiARepEUdppKKam6qkaSMpZmDS
+7Y1M+7SRpb9dSjKsa3dOXEXTxEkY1R0op7yGGSEFzww3wtiUwkxBAsqAe7I+ppnt
+Fg00UIFhRDCKqNS+YRhCbX0mLTM+hNKdAMbc2YNcYEkDjHyNCOXCEkXtvxCha5WK
+svN06OoiHYqNNzp/fHN7Lt+ZW35dW3aBcp3X9/xzrVY/2nF148rFV6ZblW8f+/On
+tc1c34K5OHVhZG7yywfLN35xyztHH5la+9zvHWsKt7fZ5fnZQ++9OvvrZOvC1vGN
+nzz/xq7xTTtal9QN+Xz7a3BLg1T3n/vxI+sdPny+52yuePVk/1sfbxi856bTXb/t
+3Xn/iicvH1k88P6xW7uP7Tjww1Mv7R26+5m2VdMbZt7+7l1+fgzSg1MTl158qMnm
+Plh/ZmHZcEV3XNy9s2PPCVX7rJnMlKdnbl481fX6Ay+cu/LVh63RlWX68+i6bV+v
+2X388+679B/bVvf144ffFOtfJmMTY3O3hXsuL/yya/bgWV4fu697cF9r/N47C+se
+b26d+eb7id7T+yb7u/qOzq+449BfDteD2w==
+=odVT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gtalarico
+
+==================================================================
