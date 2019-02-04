@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 title = "Gui Talarico"
 theme = "hugo-coder"
 
@@ -21,7 +21,7 @@ disqusShortname = "gtalarico"
     info = "Recovering Architect; Design Technologist and Software Engineer"
     description = "Gui Talarico's personal website"
     keywords = "developer,personal,python,revit api docs"
-    avatarurl = "img/avatar.jpg"
+    avatarurl = "/img/avatar.jpg"
 
     favicon_32 = "/img/favicon.ico"
     favicon_16 = "/img/favicon.ico"
