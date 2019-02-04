@@ -59,8 +59,14 @@ disqusShortname = "gtalarico"
 [[params.social]]
     name = "Instagram"
     icon = "fab fa-instagram fa-2x"
-    weight = 4
+    weight = 5
     url = "https://instagram.com/gtalarico"
+[[params.social]]
+    name = "Keybase"
+    icon = "fab fa-keybase fa-2x"
+    weight = 6
+    url = "https://keybase.io/gtalarico"
+
 
 # Menu links
 [[menu.main]]
