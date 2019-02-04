@@ -64,10 +64,10 @@ disqusShortname = "gtalarico"
 
 # Menu links
 [[menu.main]]
-    name = "Projects"
+    name = "Dev Projects"
     weight = 1
-    url  = "/projects/"
-[[menu.main]]
-    name = "Talks"
-    weight = 3
-    url  = "/talks/"
+    url  = "/dev-projects/"
+# [[menu.main]]
+#     name = "Talks"
+#     weight = 3
+#     url  = "/talks/"
