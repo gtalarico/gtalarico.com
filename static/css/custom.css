@@ -1,0 +1,50 @@
+body {
+    /* font-size: 1.5rem; */
+    font-family: Lato, Helvetica, sans-serif;
+    color: #444;
+    background-color: #f8f5f0 !important;
+    /* font-weight: 400; */
+}
+
+pre {
+    background-color: #f8f5f0 !important;
+    /* border-top: 1px solid #bbb; */
+    /* border-bottom: 2px solid #ddd; */
+
+}
+pre code {
+    font-size: 1.5rem;
+}
+
+.centered .about h2 {
+    font-size: 1.75rem;
+    color: #333;
+    font-weight: 300;
+}
+
+ /* Post Description */
+h3 {
+    margin-top: 5rem;
+    font-weight: 400;
+}
+
+.footer .container {
+    font-size: 1.25rem;
+}
+
+.footer .container .theme{
+    font-size: 1.2rem;
+    color: #999;
+}
+.footer .container .theme a:link, .footer .container .theme a:visited {
+    color: #333;
+}
+
+.post-list-description {
+    margin-top: .25rem;
+    font-size: 1.5rem;
+}
+
+.content article header h1 {
+    font-size: 3.2rem;
+}
