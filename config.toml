@@ -44,8 +44,8 @@ disqusShortname = "gtalarico"
 [[params.social]]
     name = "Stackoverflow"
     icon = "fab fa-stack-overflow fa-2x"
-    weight = 1
-    url = "https://github.com/gtalarico/"
+    weight = 2
+    url = "https://stackoverflow.com/users/4411196/gtalarico?tab=profile"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
@@ -61,11 +61,6 @@ disqusShortname = "gtalarico"
     icon = "fab fa-instagram fa-2x"
     weight = 4
     url = "https://instagram.com/gtalarico"
-[[params.social]]
-    name = "Stalk Me"
-    icon = "fa fa-search"
-    weight = 6
-    url = "https://stackoverflow.com/users/4411196/gtalarico?tab=profile"
 
 # Menu links
 [[menu.main]]
