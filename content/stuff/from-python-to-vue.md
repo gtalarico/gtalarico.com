@@ -24,7 +24,7 @@ We will also demonstrate and discuss the patterns developed to help these two te
 
 <div class="links">
     <i class="fas fa-camera"></i>
-    <a href="https://docs.google.com/presentation/d/11uncbNmcqKXVfeDvOfRdh6lPY8NbQy3avu537R3_C7M/edit?usp=sharing">Video</a>
+    <a href="https://www.youtube.com/watch?v=TCsCH9_brdA">Video</a>
     <br>
     <i class="fas fa-desktop"></i>
     <a href="https://docs.google.com/presentation/d/e/2PACX-1vRyBkFn8lneyXFtCSPOYPl1dNetuHFdvsT9yL9heY74qdbu9bcjCpM86A06TOnxggw0P5vSEEEQnMec/pub?start=true&loop=false&delayms=3000">Presentation</a>
