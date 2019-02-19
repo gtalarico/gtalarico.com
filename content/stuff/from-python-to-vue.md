@@ -30,4 +30,6 @@ We will also demonstrate and discuss the patterns developed to help these two te
     <a href="https://docs.google.com/presentation/d/e/2PACX-1vRyBkFn8lneyXFtCSPOYPl1dNetuHFdvsT9yL9heY74qdbu9bcjCpM86A06TOnxggw0P5vSEEEQnMec/pub?start=true&loop=false&delayms=3000">Presentation</a>
 </div>
 
+#### Media
+
 ![Presentation Screenshot](/img/nyc-vuejs.png)

@@ -34,7 +34,7 @@ This workshop will cover concepts such as HTTP protocol, Authentication Schemes,
     <a href="http://core.thorntontomasetti.com/event/aec-tech-2018-interpolations">Event</a>
 </div>
 
-
+#### Media
 
 [![Website Screenshot](/img/aec-2018.png)](http://core.thorntontomasetti.com/event/aec-tech-2018-interpolations/)
 [![Website Screenshot](/img/aec-2018-workshop.jpeg)](http://core.thorntontomasetti.com/event/aec-tech-2018-interpolations/)
