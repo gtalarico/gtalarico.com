@@ -1,5 +1,5 @@
 +++
-title = "MacOs Setup Guide"
+title = "MacOs Setup"
 description = "Tools and step-by-step to setup my Mac"
 slug = "mac-bootstrap"
 tags = [

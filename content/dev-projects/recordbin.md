@@ -21,6 +21,8 @@ categories = [
 * [Python Client](https://github.com/recordbinco/recordbin-python)
 * [JS Client](https://github.com/recordbinco/recordbin-js)
 
+#### Links
+
 <div class="links">
     <i class="fab fa-github"></i>
     <a href="https://github.com/recordbinco">Repo</a>
