@@ -13,10 +13,9 @@ categories = [
 draft = false
 +++
 
-#### Description
+Class at Columbia University Graduate School of Architecture, Planning and Preservation - taught with [Jared Friedman](https://www.linkedin.com/in/jared-friedman-72760324).
 
-Fall 2018 Class at Columbia University Graduate School of Architecture, Planning and Preservation - taught with [Jared Friedman](https://www.linkedin.com/in/jared-friedman-72760324).
-
+Fall 2018
 
 
 #### Links
@@ -31,13 +30,13 @@ Fall 2018 Class at Columbia University Graduate School of Architecture, Planning
 
 #### Student Work
 
-##### Samantha Pavic and Anqi Liang
+Samantha Pavic and Anqi Liang
 ![Student Work](/img/gsapp/student-work-1.png)
 
 <iframe src="https://drive.google.com/file/d/1owWK9TzFTcUCCC15sZDA__Xp-6GL9fMg/preview" width="640" height="480"></iframe>
 
-##### Suheng Li and Zheng Wu
+Suheng Li and Zheng Wu
 ![Student Work](/img/gsapp/suhengli-zhengwu.jpg)
 
-##### Kuan He
+Kuan He
 ![Student Work](/img/gsapp/kuan-he.gif)

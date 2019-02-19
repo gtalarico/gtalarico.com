@@ -16,8 +16,9 @@ draft = false
 
 2017-11-14
 
-#### Description
-This class walks through the basic concepts involved in using Python within the Dynamo Environment. It covers basic Python concepts that are needed to write a few code samples, as well as explains in detail all the boiler plate and import codes that are used. The class also touches on some aspects of the Revit API that are needed to perform basic operations such as the active document and transactions.
+_This class walks through the basic concepts involved in using Python within the Dynamo Environment. It covers basic Python concepts that are needed to write a few code samples, as well as explains in detail all the boiler plate and import codes that are used. The class also touches on some aspects of the Revit API that are needed to perform basic operations such as the active document and transactions._
+
+This presentation received 2 awards based on reviews by atendees: "Best New Speaker" and "Hands-On Lab Honorable Mention". Announcement of the Awards [here](https://www.autodesk.com/autodesk-university/blog/And-Award-Goes-Top-Rated-Sessions-AU-Las-Vegas-2017-2018).
 
 #### Links
 
@@ -32,8 +33,6 @@ This class walks through the basic concepts involved in using Python within the 
     <a href="https://github.com/gtalarico/au2017/blob/master/AU-2017_Talarico-Presentation.pdf">Presentation</a>
 </div>
 
-
-This presentation received two awards based on reviews by atendees: Best New Speaker and Hands-On Lab Honorable Mention. More on the awards [here](https://www.autodesk.com/autodesk-university/blog/And-Award-Goes-Top-Rated-Sessions-AU-Las-Vegas-2017-2018).
 
 ## Social Media
 

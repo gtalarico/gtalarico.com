@@ -5,6 +5,7 @@ slug = "vt-parametric-design"
 publishdate = 2019-02-18
 tags = [
     "rhino",
+    "grasshopper",
 ]
 categories = [
     "Teaching",
@@ -12,9 +13,9 @@ categories = [
 draft = false
 +++
 
-#### Description
+In collaboration with [Ivan O'Garro](https://www.linkedin.com/in/iogarro/)
 
-Parametric Design Class at Virginia Tech Washington Alexandria Architecture Center.
+Parametric Design and Digital Fabrication Class at Virginia Tech Washington Alexandria Architecture Center.
 
 #### Student Work
 

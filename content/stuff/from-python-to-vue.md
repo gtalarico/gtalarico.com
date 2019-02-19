@@ -13,12 +13,11 @@ categories = [
 draft = false
 +++
 
-#### Description
-
-What happens when a python developer decides to build web applications? Well... first he chooses Vue over all other JS frameworks; the rest is history. This talk will highlight the lessons learned in the journey of a python-head into the crazy world of Javascript.
-We will also demonstrate and discuss the patterns developed to help these two technologies coexist.
-
 2018-04-23
+
+_What happens when a python developer decides to build web applications? Well... first he chooses Vue over all other JS frameworks; the rest is history. This talk will highlight the lessons learned in the journey of a python-head into the crazy world of Javascript._
+_We will also demonstrate and discuss the patterns developed to help these two technologies coexist._
+
 
 #### Links
 

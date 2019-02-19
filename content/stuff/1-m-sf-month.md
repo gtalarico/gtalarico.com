@@ -12,13 +12,11 @@ categories = [
 draft = false
 +++
 
-#### Description
-
 By [Andrew Heumann](http://andrewheumann.com) and Gui Talarico, WeWork
 
-At WeWork, custom technology infrastructure underlies every part of the process of opening a new space: through real estate sourcing, due diligence, programming, project management, design, construction, and the final operations of the finished location. This digital toolchain supports efficiency, consistency, design quality, and continuous improvement through research.
+_At WeWork, custom technology infrastructure underlies every part of the process of opening a new space: through real estate sourcing, due diligence, programming, project management, design, construction, and the final operations of the finished location. This digital toolchain supports efficiency, consistency, design quality, and continuous improvement through research._
 
-In this talk, we will walk through the lifecycle of a WeWork project — and the custom platforms and tools that support it —  from the perspective of three different teams within the company: Design Technology, Construction Technology, and Fundamental Research.
+_In this talk, we will walk through the lifecycle of a WeWork project — and the custom platforms and tools that support it —  from the perspective of three different teams within the company: Design Technology, Construction Technology, and Fundamental Research._
 
 
 #### Links
