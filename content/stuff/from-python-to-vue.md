@@ -1,6 +1,6 @@
 +++
 title = "Talk: From Python to Vue"
-description = "A Crash Course on Dynamo‘s Python Node"
+description = "NYC VueJs Presentation"
 slug = "from-python-to-vue"
 publishdate = 2019-02-18
 tags = [
