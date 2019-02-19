@@ -1,7 +1,7 @@
 +++
 title = "Talk: 1 Million SF/Month"
 description = "The Platforms and Processes Supporting WeWork’s Growth"
-slug = "intro-to-web-apis"
+slug = "1-million-sf-month"
 publishdate = 2019-02-18
 tags = [
     "wework",
