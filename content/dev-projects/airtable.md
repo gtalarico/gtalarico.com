@@ -16,6 +16,8 @@ A light-weight python client library for the [Airtable Api](https://airtable.com
 
 <a class="github-button" href="https://github.com/gtalarico/airtable-python-wrapper" data-size="large" data-show-count="true" aria-label="Star gtalarico/airtable-python-wrapper on GitHub">Star</a>
 
+#### Links
+
 <div class="links">
     <i class="fab fa-github"></i>
     <a href="https://github.com/gtalarico/pipenv-pipes">Repo</a>

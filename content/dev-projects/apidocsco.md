@@ -22,6 +22,8 @@ Launched in Aug. 2018 [ApiDocs.co](https://apidocs.co) serves over 120K unique S
 
 ApiDocs was created as the eventual successor of [RevitApiDocs](/stuff/revitapidocs)
 
+#### Links
+
 <div class="links">
     <i class="fas fa-link"></i>
     <a href="https://apidocs.co">ApiDocs.co</a>
@@ -29,5 +31,7 @@ ApiDocs was created as the eventual successor of [RevitApiDocs](/stuff/revitapid
     <i class="fab fa-twitter"></i>
     <a href="https://twitter.com/apidocsco">ApiDocsCo</a>
 </div>
+
+#### Media
 
 ![apidocs-demo-gif](/img/apidocs-demo.gif)

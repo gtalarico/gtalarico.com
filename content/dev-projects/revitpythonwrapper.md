@@ -19,6 +19,8 @@ Wrapper classes make the interaction with API objects less repetitive, and more 
 
 <a class="github-button" href="https://github.com/gtalarico/revitpythonwrapper" data-size="large" data-show-count="true" aria-label="Star gtalarico/revitpythonwrapper on GitHub">Star</a>
 
+#### Links
+
 <div class="links">
     <i class="fab fa-github"></i>
     <a href="https://github.com/gtalarico/revitpythonwrapper">Repo</a>
@@ -26,6 +28,8 @@ Wrapper classes make the interaction with API objects less repetitive, and more 
     <i class="fas fa-book-open"></i>
     <a href="https://revitpythonwrapper.readthedocs.io/en/latest/">Documentation</a>
 </div>
+
+#### Media
 
 ![project-logo](https://revitpythonwrapper.readthedocs.io/en/latest/_images/logo-tight.png)
 
