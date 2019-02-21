@@ -18,6 +18,8 @@ Pipes is a CLI Tool for Python Environment Manager.
 
 <a class="github-button" href="https://github.com/gtalarico/pipenv-pipes" data-size="large" data-show-count="true" aria-label="Star gtalarico/pipenv-pipes on GitHub">Star</a>
 
+This is an awesome project.
+
 #### Links
 
 <div class="links">
