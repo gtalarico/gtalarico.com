@@ -20,7 +20,7 @@ categories = [
 
 Launched in Aug. 2018 [ApiDocs.co](https://apidocs.co) serves over 120K unique SDK documents for software commonly used in the Building Construction industry.
 
-ApiDocs was created as the eventual successor of [RevitApiDocs](/stuff/revitapidocs)
+ApiDocs was created as the eventual successor of [RevitApiDocs](/dev-projects/revitapidocs/)
 
 #### Links
 
