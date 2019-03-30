@@ -1,7 +1,7 @@
 +++
 title = "Architecture: TV Set for Discovery Channel"
 description = "Set Design for Life Changing Medicine"
-slug = "discovery-chanel-set"
+slug = "tv-set"
 publishdate = 2019-02-18
 tags = [
     "architecture",
