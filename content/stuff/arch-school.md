@@ -2,7 +2,7 @@
 title = "Architecture: Academic Portfolio"
 description = "Some Architecture School Work"
 publishdate = 2019-02-18
-slug = "arch-school-work"
+slug = "arch-school"
 tags = [
     "architecture",
 ]
