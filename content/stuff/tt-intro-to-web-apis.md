@@ -13,13 +13,18 @@ categories = [
 draft = false
 +++
 
+2018-04-23
+
 #### Description
 
 Web APIs are the backbone of today's internet and are the most common way we connect to web-hosted platforms. By the end of the session, attendees will be familiar with the concepts and tools needed to interact with a public API, as well as have a basic understanding of how APIs work under the hood.
 
 This workshop will cover concepts such as HTTP protocol, Authentication Schemes, and API Specs.  We will also go through a few hands-on exercises and demonstrations on how to understand and interact with public APIs, while also learning useful tools like Postman, Curl, and Chrome Dev Tools. In the second part of the session, we will create our own API from scratch and deploy it to a server.
 
-2018-04-23
+#### Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6KDyGtruFkArQWEgQ3fmYONq4sMVCwzy-q0ivn_iVjerxEe574Iw9eyQ3K7gMtvw9ju0ogw09PXA3/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="367" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 #### Links
 
