@@ -4,10 +4,14 @@
 
 Personal Home Page
 
-## Commands
-
-Serve
+### Develop
 
 ```
-hugo serve -D
+$ hugo serve -D
+```
+
+### Deploy
+
+```
+$ git push
 ```
