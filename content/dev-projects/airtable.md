@@ -20,7 +20,7 @@ A light-weight python client library for the [Airtable Api](https://airtable.com
 
 <div class="links">
     <i class="fab fa-github"></i>
-    <a href="https://github.com/gtalarico/pipenv-pipes">Repo</a>
+    <a href="https://github.com/gtalarico/airtable-python-wrapper/">Repo</a>
     <br>
     <i class="fab fa-python"></i>
     <a href="https://pypi.python.org/pypi/airtable-python-wrapper">PyPi Package</a>
