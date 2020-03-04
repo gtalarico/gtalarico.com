@@ -18,7 +18,7 @@ disqusShortname = "gtalarico"
 
 [params]
     author = "Gui Talarico"
-    info = "Architecture : Design Technology : Software Engineering"
+    info = "Design Technology : Software Engineering"
     description = "Gui Talarico's personal website"
     keywords = "developer,personal,python,revit api docs"
     avatarurl = "/img/avatar.jpg"
