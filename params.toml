@@ -1,0 +1,105 @@
+title = "I'm Jane Doe"
+author = "Gui Talarico"
+copyright = "2021"
+description = "Call me Jane"
+profilePicture = "/img/avatar.jpg"
+keywords = "gui talarico,developer,personal,python"
+favicon = "/img/favicon.ico"
+# example ["css/custom.css"]
+# customCss = []
+# example ["js/custom.js"]
+# customJs = []
+# mainSections = ["post"]
+# images = ["images/site-feature-image.png"]
+# doNotLoadAnimations = false
+# Form Spree Contact Form
+#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+# Google Site Verify
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+singleDateFormat = "2/1/2006"
+indexDateFormat = "2/1/2006"
+listDateFormat = "2/1/2006"
+# Commento Comments
+# CommentoURL = "https://commento.example.com/js/commento.js"
+# Read More links for truncated summaries
+# readMore = true
+# postSectionName = "blog"
+
+
+[simpleAnalytics]
+# enable = true
+# customurl = "https://analytics.example.com"
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://de.linkedin.com/"
+
+[[socialIcons]]
+title = "Github"
+icon = "fab fa-github fa-2x"
+# weight = 1
+url = "https://github.com/gtalarico/"
+
+[[socialIcons]]
+title = "Stackoverflow"
+icon = "fab fa-stack-overflow fa-2x"
+# weight = 2
+url = "https://stackoverflow.com/users/4411196/gtalarico?tab=profile"
+[[socialIcons]]
+title = "Twitter"
+icon = "fab fa-twitter fa-2x"
+# weight = 3
+url = "https://twitter.com/gtalarico/"
+[[socialIcons]]
+title = "LinkedIn"
+icon = "fab fa-linkedin fa-2x"
+# weight = 4
+url = "https://linkedin.com/in/gtalarico"
+[[socialIcons]]
+title = "Instagram"
+icon = "fab fa-instagram fa-2x"
+# weight = 5
+url = "https://instagram.com/gtalarico"
+[[socialIcons]]
+title = "Keybase"
+icon = "fab fa-keybase fa-2x"
+# weight = 6
+url = "https://keybase.io/gtalarico"
+# author = "Gui Talarico"
+# info = "Design Technology : Software Engineering"
+# description = "Gui Talarico's personal website"
+# keywords = "developer,personal,python,revit api docs"
+# profilePicture = "/img/avatar.jpg"
+
+# favicon_32 = "/img/favicon.ico"
+# favicon_16 = "/img/favicon.ico"
+
+#     footercontent = ""
+
+#     hidecredits = false
+#     hidecopyright = false
+
+#     rtl = false
+#     math = true
+#     custom_css = ["css/custom.css"]
+
+# # Social links
+
+
+# # Menu links
+# [[menu.main]]
+#     name = "Dev"
+#     weight = 1
+#     url  = "/dev-projects/"
+# [[menu.main]]
+#     name = "Other Stuff"
+#     weight = 2
+#     url  = "/stuff/"
+# # [[menu.main]]
+# #    name = "Talks"
+# #    weight = 3
+# #    url  = "/talks/"
+

@@ -1,6 +1,7 @@
 +++
 title = "Airtable Python Wrapper"
 description = "Python Client for Airtable Api"
+date= "2017-08-05"
 slug = "airtable"
 tags = [
     "python",
@@ -8,7 +9,10 @@ tags = [
     "client",
 ]
 categories = [
-    "Development",
+    "open source",
+    "python",
+    "cli",
+    "client",
 ]
 +++
 
