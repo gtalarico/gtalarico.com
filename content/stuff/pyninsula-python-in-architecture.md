@@ -2,7 +2,8 @@
 title = "Talk: Python In Architecture"
 description = "Pyninsula Meetup #20"
 slug = "pyninsula-python"
-publishdate = 2019-07-23
+publishdate = "2019-07-23"
+date = "2019-07-23"
 tags = [
     "python",
 ]
@@ -11,8 +12,6 @@ categories = [
 ]
 draft = false
 +++
-
-2019-07-23
 
 Presentation about the use of Python in Architecture at the [Pyninsula Meetup](https://www.meetup.com/Pyninsula-Python-Peninsula-Meetup/) #20
 

@@ -2,6 +2,7 @@
 title = "RecordBin"
 description = "Open Source Logging Api "
 slug = "recordbin"
+date = "2018-11-15"
 tags = [
     "python",
     "django",
@@ -10,7 +11,7 @@ tags = [
     "web development",
 ]
 categories = [
-    "Development",
+
 ]
 +++
 

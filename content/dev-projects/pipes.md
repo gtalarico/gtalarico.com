@@ -2,6 +2,7 @@
 title = "Pipes"
 description = "Pipenv Environment Switcher"
 slug = "pipes"
+date = "2018-05-02"
 tags = [
     "python",
     "cli",
@@ -10,7 +11,7 @@ tags = [
     "virtualenvironment",
 ]
 categories = [
-    "Development",
+
 ]
 +++
 

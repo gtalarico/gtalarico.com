@@ -3,6 +3,7 @@ title = "Talk: Intro to Web Apis"
 description = "Web Api Workshop at Thomsaetti AEC Symposium 2018"
 slug = "intro-to-web-apis"
 publishdate = 2019-02-18
+date  = 2018-04-23
 tags = [
     "api",
     "python",
@@ -13,7 +14,6 @@ categories = [
 draft = false
 +++
 
-2018-04-23
 
 #### Description
 

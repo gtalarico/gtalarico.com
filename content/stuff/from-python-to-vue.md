@@ -3,6 +3,7 @@ title = "Talk: From Python to Vue"
 description = "NYC VueJs Presentation"
 slug = "from-python-to-vue"
 publishdate = 2019-02-18
+date  = 2018-04-23
 tags = [
     "vue",
     "javascript",

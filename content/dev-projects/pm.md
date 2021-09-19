@@ -2,13 +2,14 @@
 title = "Pm"
 description = "A Tiny CLI utility to navigate project directories"
 slug = "pm"
+date = "2018-12-12"
 tags = [
     "cli",
     "bash",
     "go",
 ]
 categories = [
-    "Development",
+
 ]
 +++
 

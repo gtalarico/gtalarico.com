@@ -1,18 +1,18 @@
 +++
 title = "Airtable Python Wrapper"
 description = "Python Client for Airtable Api"
-date= "2017-08-05"
 slug = "airtable"
+date = "2017-08-03"
 tags = [
     "python",
     "cli",
     "client",
 ]
 categories = [
-    "open source",
     "python",
     "cli",
     "client",
+    "Open Source",
 ]
 +++
 
@@ -37,6 +37,7 @@ A light-weight python client library for the [Airtable Api](https://airtable.com
 </div>
 
 #### Usage
+
 ```python
 from airtable import Airtable
 table = Airtable('basekey', 'table_name')

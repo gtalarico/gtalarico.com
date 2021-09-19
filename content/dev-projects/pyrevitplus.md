@@ -2,6 +2,7 @@
 title = "PyRevitPlus"
 description = "Extensions for pyRevit"
 slug = "pyrevitplus"
+date = "2016-07-12"
 tags = [
     "python",
     "ironpython",
@@ -9,7 +10,7 @@ tags = [
     "pyrevit",
 ]
 categories = [
-    "Development",
+
 ]
 +++
 

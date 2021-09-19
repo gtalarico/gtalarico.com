@@ -1,22 +1,16 @@
 +++
-title = "ApiDocs.co Redesign"
-description = "Online Documentation for Revit, Navisworks, Grasshopper, and RhinoCommon"
-slug = "apidocsco-v2"
-date = "2019-09-12"
-projecturl = "ApiDocs.co"
+title = "aec.works"
+description = "Curated collection of AEC Companies"
+slug = "aecworks"
+date = "2021-04-01"
 tags = [
     "python",
     "django",
     "django-rest",
-    "elasticsearch",
-    "postgres",
-    "web development",
-    "revit api",
-    "heroku",
+    "vuejs",
+    "aec",
 ]
-categories = [
-
-]
+categories = []
 +++
 
 In March 2019 [ApiDocs.co](/dev-projects/apidocsco/) was rebuilt from scratch. First, [backend and architecture were re-engineered](https://twitter.com/ApiDocsCo/status/1130274170904801280) to improve performance, SEO, and maintainability. Later in the year, the entire frontend was also redesigned to improve navigability and the overall User Experience.
@@ -30,10 +24,13 @@ This new feature also required the creation of a new [Apidocs Code Samples Repo]
 
 <div class="links">
     <i class="fas fa-link"></i>
-    <a href="https://apidocs.co">ApiDocs.co</a>
+    <a href="https://aec.works">aec.works</a>
+    <br>
+    <i class="fab fa-github"></i>
+    <a href="https://github.com/aecworks">Github</a>
     <br>
     <i class="fab fa-twitter"></i>
-    <a href="https://twitter.com/apidocsco">ApiDocsCo</a>
+    <a href="https://twitter.com/aec_works">aec_works</a>
 </div>
 
 #### Media

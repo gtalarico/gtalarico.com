@@ -10,48 +10,53 @@ defaultcontentlanguage = "en"
 # paginate = 20
 # canonifyurls = true
 
-pygmentsstyle = "tango"
+pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
 # disqusShortname = "gtalarico"
 
-# summarylength = 10
 # enableEmoji = true
-# enableRobotsTXT = true
+enableRobotsTXT = true
+
+[markup.goldmark.renderer]
+unsafe= true
 
 
 [params]
 author = "Gui Talarico"
-# title = "about"
-description = "Gui Talarico"
-# description = "human\nlikes computers, code, music and dogs\nmanages one baby human with the help of another human"
+title = "Gui Talarico"
+# description = "Gui Talarico"
+description = """
+Human. Likes computers, code, music and dogs.
+Manages one baby human with the help of another human.
+"""
 # description = "gtalarico (at) g/m/a/i/l (dot) com"
 profilePicture = "/img/avatar.jpg"
 copyright = "2021"
 keywords = "gui talarico,developer,personal,python"
 favicon = "/img/favicons/"
-# example ["css/custom.css"]
-# customCss = []
-# example ["js/custom.js"]
+customCss = ["/css/custom.css"]
 # customJs = []
-# mainSections = ["dev"]
+# mainSections = []
+mainSections = ["post", "dev-projects"]
 images = ["/img/avatar.jpg"]
 doNotLoadAnimations = true
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-singleDateFormat = "Jan 2006"
-indexDateFormat = "Jan 2006"
-# listDateFormat = "2/1/2006"
-listDateFormat = "Jan 2006"
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
+
 # Read More links for truncated summaries
-readMore = true
+# readMore = true
 # postSectionName = "blog"
 # fullPostContent = false
+# summarylength = 5
+
+singleDateFormat = "2006/01"
+indexDateFormat = "2006/01"
+listDateFormat = "Jan"
 
 
 # [simpleAnalytics]
@@ -65,67 +70,63 @@ readMore = true
 # theme= "preferred-color-scheme"
 
 ## Social links
-# use 'fab' when brand icons, use 'fas' when standard solid icons.
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
 
-[[params.socialIcons]]
-title = "Github"
-icon = "fab fa-github fa-2x"
-url = "https://github.com/gtalarico/"
+    # use 'fab' when brand icons, use 'fas' when standard solid icons.
+    [[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "Linkedin"
+    url = "https://de.linkedin.com/"
 
-[[params.socialIcons]]
-title = "Stackoverflow"
-icon = "fab fa-stack-overflow fa-2x"
-url = "https://stackoverflow.com/users/4411196/gtalarico?tab=profile"
+    [[params.socialIcons]]
+    title = "Github"
+    icon = "fab fa-github fa-2x"
+    url = "https://github.com/gtalarico/"
 
-[[params.socialIcons]]
-title = "Twitter"
-icon = "fab fa-twitter fa-2x"
-url = "https://twitter.com/gtalarico/"
+    [[params.socialIcons]]
+    title = "Stackoverflow"
+    icon = "fab fa-stack-overflow fa-2x"
+    url = "https://stackoverflow.com/users/4411196/gtalarico?tab=profile"
 
-[[params.socialIcons]]
-title = "LinkedIn"
-icon = "fab fa-linkedin fa-2x"
-url = "https://linkedin.com/in/gtalarico"
+    [[params.socialIcons]]
+    title = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    url = "https://twitter.com/gtalarico/"
 
-[[params.socialIcons]]
-title = "Instagram"
-icon = "fab fa-instagram fa-2x"
-url = "https://instagram.com/gtalarico"
+    [[params.socialIcons]]
+    title = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    url = "https://linkedin.com/in/gtalarico"
 
-[[params.socialIcons]]
-title = "Keybase"
-icon = "fab fa-keybase fa-2x"
-url = "https://keybase.io/gtalarico"
+    [[params.socialIcons]]
+    title = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    url = "https://instagram.com/gtalarico"
+
+    [[params.socialIcons]]
+    title = "Keybase"
+    icon = "fab fa-keybase fa-2x"
+    url = "https://keybase.io/gtalarico"
 
 
 [menu]
 
-[[menu.main]]
-    name = "Open Source"
+    [[menu.main]]
+    name = "Coding"
     identifier = "dev"
     weight = 1
     url  = "/dev-projects/"
 
-[[menu.main]]
+    [[menu.main]]
     name = "Other Stuff"
     weight = 2
     url  = "/stuff/"
 
-[[menu.main]]
-    name = "Capabilities"
-    weight = 3
-    url  = "/caps/"
-
-[[menu.main]]
+    [[menu.main]]
     name = "About"
     weight = 4
     url  = "/about/"
 
-[[menu.main]]
-  name = "Posts"
-  weight = 200
-  url = "/post/"
+    [[menu.main]]
+    name = "Posts"
+    weight = 200
+    url = "/post/"

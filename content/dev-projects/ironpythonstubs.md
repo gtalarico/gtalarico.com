@@ -2,6 +2,7 @@
 title = "IronPython Stubs"
 description = "Autocompletion Stubs for common IronPython CLR assemblies"
 slug = "ironpython-stubs"
+date = "2017-04-08"
 tags = [
     "python",
     "ironpython",
@@ -9,7 +10,7 @@ tags = [
     "pyrevit",
 ]
 categories = [
-    "Development",
+
 ]
 +++
 

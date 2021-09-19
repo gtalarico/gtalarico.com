@@ -2,7 +2,7 @@
 title = "ApiDocs.co"
 description = "Online Documentation for Revit, Navisworks, Grasshopper, and RhinoCommon"
 slug = "apidocsco"
-projecturl = "ApiDocs.co"
+date = "2019-03-01"
 tags = [
     "python",
     "django",
@@ -14,7 +14,7 @@ tags = [
     "heroku",
 ]
 categories = [
-    "Development",
+
 ]
 +++
 

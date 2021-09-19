@@ -1,0 +1,51 @@
+body {
+    /* font-size: 1.5rem; */
+    /* font-family: Lato, Helvetica, sans-serif; */
+    /* color: #333; */
+    /* background-color: #333 !important; */
+}
+div {
+    border-right: none !important;
+}
+
+
+.links {
+    margin-left: 0;
+}
+
+pre {
+    padding: 2rem;
+    /* background-color: #f8f5f0 !important; */
+}
+
+.category {
+ background-color: transparent;
+ padding: 5px 10px;
+ /* border: 1px solid black; */
+}
+
+.category:hover {
+    background-color: #eee;
+}
+
+.page-top .nav {
+    /* Fixes nav underscore */
+    padding: 9px 30px;
+}
+
+.page-top .nav a.current {
+    /* border: none; */
+    /* box-shadow: inset 0 0 0 5px black, inset 0 0 0 10px white; */
+}
+
+.sidebar .logo-title .title img {
+    width: 120px;
+    height: 120px;
+}
+
+.post  {
+    margin-top: 75px;
+}
+.post-title {
+    margin-bottom: 50px;
+}

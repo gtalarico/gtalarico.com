@@ -3,6 +3,7 @@ title = "Talk: Untangling Python"
 description = "A Crash Course on Dynamo‘s Python Node"
 slug = "au-2017"
 publishdate = 2019-02-18
+date  = 2017-11-14
 tags = [
     "python",
 ]
@@ -13,8 +14,6 @@ draft = false
 +++
 
 ## Untangling Python: A Crash Course on Dynamo‘s Python Node
-
-2017-11-14
 
 _This class walks through the basic concepts involved in using Python within the Dynamo Environment. It covers basic Python concepts that are needed to write a few code samples, as well as explains in detail all the boiler plate and import codes that are used. The class also touches on some aspects of the Revit API that are needed to perform basic operations such as the active document and transactions._
 

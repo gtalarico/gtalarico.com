@@ -1,48 +1,33 @@
 +++
-title = "ApiDocs.co Redesign"
-description = "Online Documentation for Revit, Navisworks, Grasshopper, and RhinoCommon"
-slug = "apidocsco-v2"
-date = "2019-09-12"
-projecturl = "ApiDocs.co"
+title = "Aec Startups"
+description = "Shinny Startups in the AEC Space"
+slug = "aecstartups"
+date = "2019-06-01"
 tags = [
     "python",
     "django",
     "django-rest",
-    "elasticsearch",
-    "postgres",
-    "web development",
-    "revit api",
-    "heroku",
+    "vuejs",
+    "aec",
 ]
-categories = [
-
-]
+categories = []
 +++
 
-In March 2019 [ApiDocs.co](/dev-projects/apidocsco/) was rebuilt from scratch. First, [backend and architecture were re-engineered](https://twitter.com/ApiDocsCo/status/1130274170904801280) to improve performance, SEO, and maintainability. Later in the year, the entire frontend was also redesigned to improve navigability and the overall User Experience.
 
-The new ApiDocs ranks substantially better on Search engines, offers improved auto-completion,and handles over 250K unique documents with no hiccups on a U$15/month budget.
-
-This version also introduced a new Code Search functionality, which allows user to search for relevant Github for usage samples.
-This new feature also required the creation of a new [Apidocs Code Samples Repo](https://github.com/gtalarico/apidocs.samples) which aggregates over 500,000 lines of relevant source code to search against. Code Search still requires substantial improvement but I think this was a good start.
 
 #### Links
 
 <div class="links">
     <i class="fas fa-link"></i>
-    <a href="https://apidocs.co">ApiDocs.co</a>
+    <a href="https://aecstartups.com">AecStartups.com</a>
     <br>
-    <i class="fab fa-twitter"></i>
-    <a href="https://twitter.com/apidocsco">ApiDocsCo</a>
+    <i class="fab fa-github"></i>
+    <a href="https://github.com/aecstartups">Repo</a>
 </div>
 
 #### Media
 
 ![New Design](/img/apidocs-redesign.png)
-
-![New Page](/img/apidocs-new-page.png)
-
-![Code Search](/img/apidocs-new-page.png)
 
 
 

@@ -2,6 +2,7 @@
 title = "Vue Js Templates"
 description = "Fullstack templates for Python + VueJs"
 slug = "vue-templates"
+date = "2018-08-09"
 tags = [
     "python",
     "vuejs",
@@ -10,7 +11,7 @@ tags = [
     "heroku",
 ]
 categories = [
-    "Development",
+
 ]
 +++
 

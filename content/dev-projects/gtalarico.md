@@ -1,12 +1,13 @@
 +++
-title = "Gtalarico.com"
+title = "gtalarico.com"
 description = "Personal Website"
 slug = "gtalarico"
+date = "2021-05-19"
 tags = [
     "hugo",
 ]
 categories = [
-    "Development",
+
 ]
 +++
 

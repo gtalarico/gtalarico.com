@@ -1,9 +1,8 @@
 +++
 draft = false
-title = "Changing Careers"
-description = "Fullstack templates for Python + VueJs"
-slug = "careers"
-date = "2021-05-19"
+title = "Airtable As a Backend"
+description = "..."
+slug = "airtable-backend"
 tags = [
 
 ]
@@ -12,8 +11,6 @@ categories = [
 +++
 
 Changing Careers
-
-
 
 As teenager
 When was in my early teens, years old I asked my parents to buy me "Visual Basic" for dummies.

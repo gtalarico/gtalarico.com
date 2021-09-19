@@ -2,7 +2,8 @@
 title = "Teaching: Rethinking Bim"
 description = "Columbia University - Bim Class"
 slug = "gsapp-fall-2018"
-publishdate = 2019-02-18
+publishdate = "2019-02-18"
+date = "2018-08-01"
 tags = [
     "bim",
     "revit",
