@@ -16,6 +16,9 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "gtalarico"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
     author = "Gui Talarico"
     info = "Design Technology : Software Engineering"
