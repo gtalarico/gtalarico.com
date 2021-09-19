@@ -72,7 +72,7 @@ disqusShortname = "gtalarico"
 [[menu.main]]
     name = "Dev"
     weight = 1
-    url  = "/dev-projects/"
+    url  = "https://github.com/gtalarico"
 [[menu.main]]
     name = "Other Stuff"
     weight = 2
