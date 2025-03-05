@@ -24,7 +24,7 @@ unsafe= true
     info = "Design Technology : Software Engineering"
     description = "Gui Talarico's personal website"
     keywords = "developer,personal,python,revit api docs"
-    avatarurl = "/img/avatar.jpg"
+    avatarurl = "/img/avatar2.jpg"
 
     favicon_32 = "/img/favicon.ico"
     favicon_16 = "/img/favicon.ico"

@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "John Doe's personal website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar2.jpg"
     footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
